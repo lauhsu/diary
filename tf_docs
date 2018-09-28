@@ -1,3 +1,4 @@
-## 人群密度分析算法
 ## tensorflow 学习日记
 ### tf.pad(input, paddings, name=None)
+    padding里面每个[a, b] 都代表在相应的维上，前加 a个(行) 0，后加b个(行) 0
+    https://blog.csdn.net/zhang_bei_qing/article/details/75090203
