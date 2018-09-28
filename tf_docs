@@ -1,0 +1,2 @@
+## tensorflow 学习日记
+### tf.pad(input, paddings, name=None)
