@@ -7,3 +7,5 @@ https://blog.csdn.net/sinat_34298650/article/details/52440527
 http://www.robots.ox.ac.uk/~vgg/software/via/
 ## 机器学习中的范数规则化之（一）L0、L1与L2范数
 https://blog.csdn.net/zouxy09/article/details/24971995/
+## 深入浅出——深度学习中的Batch Normalization使用
+https://blog.csdn.net/u010402786/article/details/51233854?utm_source=blogxgwz1
