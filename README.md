@@ -11,3 +11,5 @@ https://blog.csdn.net/zouxy09/article/details/24971995/
 https://blog.csdn.net/u010402786/article/details/51233854?utm_source=blogxgwz1
 ## FCN全卷积网络上采样理解
 https://blog.csdn.net/qq_14839543/article/details/70169990
+## YOLO全理解
+https://medium.com/@jonathan_hui/real-time-object-detection-with-yolo-yolov2-28b1b93e2088
