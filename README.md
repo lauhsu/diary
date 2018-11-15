@@ -13,3 +13,5 @@ https://blog.csdn.net/u010402786/article/details/51233854?utm_source=blogxgwz1
 https://blog.csdn.net/qq_14839543/article/details/70169990
 ## YOLO全理解
 https://medium.com/@jonathan_hui/real-time-object-detection-with-yolo-yolov2-28b1b93e2088
+### Action Classification
+ Temporal 3D ConvNets: New Architecture and Transfer Learning for Video Classification [code:https://github.com/MohsenFayyaz89/T3D]
