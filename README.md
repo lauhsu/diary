@@ -18,5 +18,5 @@ https://medium.com/@jonathan_hui/real-time-object-detection-with-yolo-yolov2-28b
  Temporal 3D ConvNets: New Architecture and Transfer Learning for Video Classification [code:https://github.com/MohsenFayyaz89/T3D]
  Describing Videos by Exploiting Temporal Structure [code:https://github.com/yaoli/arctic-capgen-vid]
 ### 行为识别论文
-##### SSN：Temporal Action Detection with Structured Segment Networks
+##### （1）SSN：Temporal Action Detection with Structured Segment Networks
 - 提取高质量行为时间proposal
