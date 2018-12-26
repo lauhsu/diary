@@ -19,4 +19,4 @@ https://medium.com/@jonathan_hui/real-time-object-detection-with-yolo-yolov2-28b
  Describing Videos by Exploiting Temporal Structure [code:https://github.com/yaoli/arctic-capgen-vid]
  ### 行为识别论文
 - SSN：Temporal Action Detection with Structured Segment Networks
--- 提取高质量行为时间proposal
+- 提取高质量行为时间proposal
