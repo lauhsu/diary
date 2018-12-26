@@ -20,3 +20,4 @@ https://medium.com/@jonathan_hui/real-time-object-detection-with-yolo-yolov2-28b
 ### 行为识别论文
 ##### （1）SSN：Temporal Action Detection with Structured Segment Networks
 - 提取高质量行为时间proposal
+- https://blog.csdn.net/zhang_can/article/details/79782387
